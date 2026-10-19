@@ -1,0 +1,3 @@
+[server]
+# Block Streamlit from scanning library files inside your virtual environment
+folderWatchBlacklist = ["myenv", "Lib/site-packages", ".venv"]

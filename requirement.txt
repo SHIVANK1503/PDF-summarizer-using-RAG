@@ -1,0 +1,17 @@
+# UI
+streamlit
+
+# LangChain
+langchain-core
+langchain-community
+langchain-classic
+langchain-google-genai
+
+# PDF loading
+pypdf
+
+# Vector store
+chromadb
+
+# Environment variables
+python-dotenv

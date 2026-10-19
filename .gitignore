@@ -1,0 +1,25 @@
+# Secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Vector store data (Chroma creates these folders)
+chroma_db/
+chroma/
+*.sqlite3
+
+# Confidential documents
+uploads/
+data/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
